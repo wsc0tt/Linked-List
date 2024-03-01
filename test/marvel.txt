@@ -1,0 +1,16 @@
+Captain America
+Iron Man
+Spider-Man
+Black Panther
+Deadpool
+The Hulk
+Thor
+Loki
+Guardians of the Galaxy
+Vision
+Black Widow
+Ant-Man
+Wolverine
+Scarlet Witch
+Hawkeye
+END
